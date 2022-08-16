@@ -1,6 +1,7 @@
 # <div align='center'> GrattacieliPython <div>
 
-<div align='center'> Play the logic puzzle 'Grattacieli' in your cli </div>
+<div align='center'> Generate the logic puzzle 'Grattacieli' in your cli </div>
+<br>
 
 ![Demonstration](./images/demonstration.gif)
 
