@@ -1,10 +1,10 @@
 # <div align='center'> GrattacieliPython <div>
 
+<div align='center'> Play the logic puzzle 'Grattacieli' in your cli </div>
 
 ![Demonstration](./images/demonstration.gif)
 
 
-Play the logic puzzle 'Grattacieli' in your cli
 
 ## How to install & use
 
