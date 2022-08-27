@@ -11,7 +11,7 @@
 
 1. Clone the repository
 ```
-git clone 
+git clone https://github.com/BayoDev/GrattacieliPython.git
 ```
 
 2. Change the directory to the new folder
